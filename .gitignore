@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.bsp_cred
+records/
+data/模板.xlsx
